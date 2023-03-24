@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachid48&label=Profile%20views&color=0e75b6&style=flat" alt="sachid48" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachid48" alt="sachid48" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sachi_1132" target="blank"><img src="https://img.shields.io/twitter/follow/sachi_1132?logo=twitter&style=for-the-badge" alt="sachi_1132" /></a> </p>
 
