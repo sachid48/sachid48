@@ -14,7 +14,7 @@
 
 - 💬 2023 Goals **Become Full Stack (MERN) Web Developer**
 
-- 📫 How to reach me **sachid48@gmail.com**
+- 📫 How to reach me **sachidanandasahoo60@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
