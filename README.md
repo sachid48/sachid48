@@ -8,9 +8,6 @@
 
 - 🔭 I’m currently working on **something cool 😎**
 
-- 🌱 I’m currently learning **learning React Hooks ⚛**
-
-- 👯 I’m looking to collaborate on **with other developers**
 
 - 💬 2023 Goals **Become Full Stack (MERN) Web Developer**
 
