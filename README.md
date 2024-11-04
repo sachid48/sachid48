@@ -9,9 +9,9 @@
 - 🔭 I’m currently working on **something cool 😎**
 
 
-- 💬 2023 Goals **Become Full Stack (MERN) Web Developer**
+- 💬 Full Stack Python Developer**
 
-- 📫 How to reach me **sachidanandasahoo60@gmail.com**
+- 📫 How to reach me **sachidanandapython@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
