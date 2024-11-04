@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sachidananda Sahoo</h1>
-<h3 align="center">I'm a  Developer 🧑‍🎓</h3>
+<h3 align="center">I'm a Python Developer 🧑‍🎓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachid48&label=Profile%20views&color=0e75b6&style=flat" alt="sachid48" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/sachi_1132" target="blank"><img src="https://img.shields.io/twitter/follow/sachi_1132?logo=twitter&style=for-the-badge" alt="sachi_1132" /></a> </p>
 
-- 🔭 I’m currently working on **something cool 😎**
+- 🔭 I’m currently working on  **InnoverenIT**
 
 
 - 💬 Full Stack Python Developer**
